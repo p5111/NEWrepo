@@ -1,2 +1,2 @@
 # NEWrepo
-This is jut another 
+This is just another 
